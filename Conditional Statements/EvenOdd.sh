@@ -1,4 +1,5 @@
-// Even-Odd 
+#!/bin/bash
+# Even Odd
 
 echo "Enter Number:"
 read a
