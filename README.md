@@ -8,8 +8,9 @@ This repository contains Linux shell scripts and command-based examples to pract
 - Practical scripts
 
 ## Topics Covered
-### Conditional Statements
-- Even / Odd number check
+
+- Conditional Statements
+- Loops
 
 ## Note
 - More scripts will be added as learning progresses.
